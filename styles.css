@@ -1,0 +1,55 @@
+body {
+    background-color: #fffffa;
+    font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+    color: #011627;
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+#recipesList{
+    list-style-type: none;
+}
+
+a{
+    font-size: 1.5rem;
+    color: #3a6ea5;
+}
+
+a:hover {
+    color: #2e5681;
+}
+
+#imgStroganoff {    
+    width: 50vw;
+    height: auto;
+}
+
+#imgCarbonara {
+    width: 38vw;
+    height: auto;
+}
+
+#imgBrigadeiro {
+    width: 40vw;
+    height: auto;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+p {
+    text-align: justify;
+}
+
+ul, ol {
+    text-align: left;
+}
