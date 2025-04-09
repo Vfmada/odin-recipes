@@ -9,7 +9,7 @@ It was built to practice and demonstrate fundamental web development skills usin
 - Multi-page website with internal links
 - Use of images with descriptive alt text
 - Unordered and ordered lists for ingredients and steps
-- Clean and structured CSS styling
+- Structured CSS styling
 - Responsive design basics using relative units (`vw`, `%`, `rem`)
 - Styling buttons, links, and hover effects
 - Page layout using wrappers and centered content
